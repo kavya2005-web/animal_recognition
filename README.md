@@ -3,7 +3,7 @@
 
 # 🐾 Deep Learning Based Animal Recognition System
 
-# Project Link : https://huggingface.co/spaces/MSivasandeep/Animal-Recognition-System
+# Project Link : https://huggingface.co/spaces/NKavyasree/Animal-Recognition-System
 
 ## Overview
 
